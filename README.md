@@ -5,5 +5,6 @@
 * Username and Login page with user authentication enabled by Firebase.
 * Stripe API is used for enabling real online payment system.
 * All data regarding payments is sotred in Firebase database.
+* Firebase hosting service is used to deploy the amazon-clone app
 
 
