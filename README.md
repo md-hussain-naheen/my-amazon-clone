@@ -6,7 +6,11 @@
 * Stripe API is used for enabling real online payment system.
 * All data regarding payments is sotred in Firebase database.
 * Firebase hosting service is used to deploy the amazon-clone app
+* Check SCREENSHOT folder for the screenshots of the App.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
